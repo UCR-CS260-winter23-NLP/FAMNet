@@ -1,1 +1,3 @@
 # FAMNet
+
+This paper presents a simple technique for generalized large language models. We show that collection of small supervised models, instruction-tuned on task-specific data sets- substantially improves performance in generalized tasks. We have taken a 3M parameter supervised model and instruction-tuned it on three different task-specific data sets curated using natural language instruction templates. We evaluate this model, which we call FAMNet, with state-of-the-art models (SOTA) such as FLAN and GPT3. All trained models are available at https://github.com/ UCR-CS260-winter23-NLP/FAMNet.
